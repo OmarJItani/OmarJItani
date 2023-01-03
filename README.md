@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Projects related to: Robotics, Motion Planning, Path Planning, ...**
 
-- 👨‍💻 All of my projects are available at [omarjitani.github.io](omarjitani.github.io)
+- 👨‍💻 A list of all my projects is available at [https://omarjitani.github.io/](https://omarjitani.github.io/)
 
 - 💬 Ask me about **Robotics, Motion Planning, Path Planning**
 
