@@ -6,17 +6,17 @@
  
 - 🔭 I’m currently working on **Motion planning for bio-inspired robots**
 
-- 👯 I’m looking to collaborate on **Projects related to: Robotics, Motion Planning, Path Planning, ...**
+- 👯 I’m looking to collaborate on **Projects related to: Robotics, Motion Planning, Path Planning, Deep Learning...**
 
 - 👨‍💻 A list of all my projects is available at [https://omarjitani.github.io/](https://omarjitani.github.io/)
 
-- 💬 Ask me about **Robotics, Motion Planning, Path Planning**
+- 💬 Ask me about **Robotics, Motion Planning, Path Planning, Deep Learning**
 
 - 📫 How to reach me **omar96itani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omar-itani-a86111216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-itani-a86111216" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omarjitani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarjitani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
