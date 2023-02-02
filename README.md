@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Itani</h1>
-<h3 align="center">A robotics engineer and researcher with focus on motion planning and path planning applications</h3>
+<h3 align="center">A robotics engineer and researcher</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
