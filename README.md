@@ -33,3 +33,6 @@
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarjitani&show_icons=true&locale=en&layout=compact" alt="omarjitani" /></p> -->
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjitani&hide_progress=true)](https://github.com/omarjitani/github-readme-stats) -->
